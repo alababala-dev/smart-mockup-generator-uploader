@@ -44,3 +44,9 @@ Requirements: Python 3.10+, Adobe Photoshop (for the Mockup Engine), and a WooCo
 API Keys: Obtain keys for Gemini, Groq, and WooCommerce REST API.
 
 Setup: Replace the placeholders in the CONFIG section of each script with your credentials.
+
+<img width="525" height="659" alt="PhotoshopBot" src="https://github.com/user-attachments/assets/e4d49dc5-ebf4-4816-98dc-824f7eb800a7" />
+
+
+<img width="487" height="661" alt="WooCommerceUploader" src="https://github.com/user-attachments/assets/d136ae8f-c1b6-4855-8e61-a9a698e9c69f" />
+
